@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 72" fill="none">
+  <!-- Blue circle badge -->
+  <circle cx="36" cy="36" r="34" fill="#007DFE"/>
+  <!-- White G letterform -->
+  <path d="M46.5 37.5H36v-5.5h16.5V20.5C49.2 16.8 43 14.5 36 14.5c-11.9 0-21.5 9.6-21.5 21.5S24.1 57.5 36 57.5c8.8 0 16.4-5.3 19.8-13H46.5v-7z" fill="white"/>
+  <!-- GCash wordmark -->
+  <text x="82" y="49" font-family="'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="36" letter-spacing="-1" fill="#007DFE">GCash</text>
+</svg>
